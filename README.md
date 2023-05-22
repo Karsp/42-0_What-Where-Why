@@ -8,6 +8,8 @@ Six years after its creation in Paris, 42 arrives in Madrid thanks to Fundación
 
 ![42 campus madrid](https://github.com/Karsp/42-0_What-Where-Why/blob/5384e217ab73b4f2905b0bc3c42588d0da1b2e97/42-Madrid-web.jpg)
 
+<br>
+
 ## 42 PEDAGOGY
 The 42 pedagogical approach focuses not only on coding, but also on critical thinking, problem-solving, innovation, collaboration, creativity and entrepreneurship. Most importantly, here students learn how to learn – the ultimate future-proof skill!
 
@@ -28,7 +30,8 @@ In conventional pedagogical approaches, evaluation happens at the end of the cur
 
 ### GROUP WORK IS NOT CHEATING
 In a classroom, it’s usually ill-advised to join forces or share advice in order to solve a problem. At 42, it’s the other way around. When projects get too tough to tackle, creating a group helps share different points of view. By approaching someone struggling with the same problem, you can share your thoughts and perspectives. Everyone brings something to the table so that, together, you can understand complex concepts and learn how to complete a project.
-
+<br>
+<br>
 ## 42 The Network
 ### AN EVER-EXPANDING GLOBAL NETWORK
 
@@ -41,7 +44,7 @@ In a classroom, it’s usually ill-advised to join forces or share advice in ord
 [The 42 Method](https://42.fr/en/what-is-42/the-42-method/) | 
 [42 Madrid](https://www.42madrid.com) |
 
-Fuentes <br>
+#### Source
 [42 Madrid](https://www.42madrid.com)<br>
 [42 Berlin](https://42berlin.de)<br>
 [42 Paris](https://42.fr)<br>
