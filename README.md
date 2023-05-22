@@ -36,10 +36,10 @@ In a classroom, it’s usually ill-advised to join forces or share advice in ord
 
 >42 Network is a network of partner institutions funded by institutions, companies and investors around the world. In 2020, Sophie Vigier announced that 33 establishments are open on 5 continents and in 22 countries. The educational curriculum of these establishments is based on a common core, but the campuses can adapt their projects to the labor pools in which they are located.
 
-###More information
-[What is 42](https://42.fr/en/what-is-42/42-program-explained/)
-[The 42 Method](https://42.fr/en/what-is-42/the-42-method/)
-[42 Madrid](https://www.42madrid.com)
+### More information
+[What is 42](https://42.fr/en/what-is-42/42-program-explained/) | 
+[The 42 Method](https://42.fr/en/what-is-42/the-42-method/) | 
+[42 Madrid](https://www.42madrid.com) |
 
 Fuentes
 [42 Madrid](https://www.42madrid.com)
