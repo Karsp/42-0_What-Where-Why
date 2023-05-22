@@ -41,7 +41,7 @@ In a classroom, it’s usually ill-advised to join forces or share advice in ord
 [The 42 Method](https://42.fr/en/what-is-42/the-42-method/) | 
 [42 Madrid](https://www.42madrid.com) |
 
-Fuentes
-[42 Madrid](https://www.42madrid.com)
-[42 Berlin](https://42berlin.de)
-[42 Paris](https://42.fr)
+Fuentes <br>
+[42 Madrid](https://www.42madrid.com)<br>
+[42 Berlin](https://42berlin.de)<br>
+[42 Paris](https://42.fr)<br>
